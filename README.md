@@ -3,7 +3,7 @@ Since 2013, the Citi Bike Program in New York City has implemented a robust infr
 
 
 # Objective
-The goal of this project is to aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard. The timespan that is used for this data is the year 2017.
+The goal of this project is to aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard. The timespan that is used for this data is winter 2022-2023.
 
 
 # Rescources
@@ -15,5 +15,5 @@ The goal of this project is to aggregate the data found in the Citi Bike Trip Hi
 
 # Visualizations
 
-
+https://github.com/NatkaBond/Citi-Bike-Analytics.git
 ![Map](/images/citi-bike-station-bikes.jpg)
