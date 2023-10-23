@@ -16,4 +16,3 @@ The goal of this project is to aggregate the data found in the Citi Bike Trip Hi
 # Visualizations
 
 https://github.com/NatkaBond/Citi-Bike-Analytics.git
-![Map](/images/citi-bike-station-bikes.jpg)
