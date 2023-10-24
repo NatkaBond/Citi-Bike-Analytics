@@ -1,4 +1,7 @@
 # Citi Bike Analytics
+
+![Map](/images/citi-bike-station-bikes.jpg)
+
 Since 2013, the Citi Bike Program in New York City has implemented a robust infrastructure for collecting data on the program's utilization.  Each month the bike data is collected, organized, and made public on the Citi Bike Data webpage.
 
 
