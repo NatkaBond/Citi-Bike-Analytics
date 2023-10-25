@@ -16,6 +16,6 @@ The goal of this project is to aggregate the data found in the Citi Bike Trip Hi
 
 
 # Visualizations
+## Tableau Dashboard
+[Link to my Tableau Dashboard]([PasteYourTableauPublicLinkHere](https://public.tableau.com/views/VisualBook2023/_CitiBikeInfoDashboard?:language=en-US&:display_count=n&:origin=viz_share_link))
 
-
-(https://public.tableau.com/views/VisualBook2023/_CitiBikeInfoDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/VisualBook2023/_CitiBikeInfoDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
